@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.reunionemu</groupId>
+  <artifactId>jreunion-parent</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20120926.083833</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20120926083833</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20120926.083833-1</value>
+        <updated>20120926083833</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
